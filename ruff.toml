@@ -1,0 +1,2 @@
+# Local dependency downloads are not part of the project source.
+extend-exclude = [".uv-cache"]
